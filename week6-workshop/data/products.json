@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "category": "Electronics",
+    "price": 47900,
+    "stock": 10,
+    "description": "iPhone 15 Pro Max 256GB"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M2",
+    "category": "Electronics",
+    "price": 39900,
+    "stock": 8,
+    "description": "13-inch MacBook Air with M2 chip"
+  },
+  {
+    "id": 4,
+    "name": "iPad Air",
+    "category": "Electronics",
+    "price": 19900,
+    "stock": 12,
+    "description": "10.9-inch iPad Air"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "category": "Electronics",
+    "price": 19900,
+    "stock": 12,
+    "description": "10.9-inch iPad Air"
+  }
+]
